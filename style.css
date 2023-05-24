@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue",
+    Arial, "Hiragino KaKu Gothic ProN", Meiryo, sans-serif;
+
+}
+
+header {
+  border-bottom: 1px solid orangered;
+  margin: 0;
+  font-size: 32px;
+
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.Akitomo {
+  box-sizing: border-box;
+  background-color: red;
+}
+
+.Syuhei {
+  box-sizing: border-box;
+  background-color: skyblue;
+}
+
+.Sabi {
+  box-sizing: border-box;
+  background-color: greenyellow;
+}
+
+.Kazuya {
+  box-sizing: border-box;
+  background-color: yellow;
+}
+
+.Yuya {
+  box-sizing: border-box;
+  background-color: pink;
+}
+
+.All {
+  font-weight: bold;
+}
+
+
+p {
+  margin: 0;
+  line-height: 1.6;
+  text-decoration: double;
+}
+
+.red {
+  background-color: red;
+  opacity: 0.8;
+  width: 20em;
+  vertical-align: bottom;
+}
+
+.blue {
+  background-color: skyblue;
+  width: 20em;
+}
+
+.green {
+  background-color: greenyellow;
+  width: 20em;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 20em;
+}
+
+.pink {
+  background-color: pink;
+  width: 20em;
+}
+
+.white {
+  font-weight: bold;
+}
